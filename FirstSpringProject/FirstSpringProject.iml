@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aop-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aspects-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-beans-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-indexer-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-support-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-core-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-expression-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-instrument-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jcl-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jdbc-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jms-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-messaging-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-orm-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-oxm-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-test-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-tx-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-web-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webflux-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webmvc-5.2.9.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-websocket-5.2.9.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aop-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aspects-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-beans-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-indexer-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-support-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-core-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-expression-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-instrument-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jcl-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jdbc-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jms-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-messaging-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-orm-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-oxm-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-test-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-tx-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-web-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webflux-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webmvc-5.2.9.RELEASE-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-websocket-5.2.9.RELEASE-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aop-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-aspects-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-beans-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-indexer-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-context-support-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-core-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-expression-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-instrument-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jcl-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jdbc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-jms-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-messaging-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-orm-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-oxm-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-test-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-tx-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-web-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webflux-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-webmvc-5.2.9.RELEASE-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Java/spring jars/spring-websocket-5.2.9.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Java/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
