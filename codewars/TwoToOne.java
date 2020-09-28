@@ -9,7 +9,7 @@ import static java.util.Objects.isNull;
 import static org.junit.Assert.assertEquals;
 
 public class TwoToOne {
-
+// Take 2 strings s1 and s2 including only letters from a to z. Return a new sorted string, the longest possible, containing distinct letters,
     public static String longest (String s1, String s2) {
 
 
